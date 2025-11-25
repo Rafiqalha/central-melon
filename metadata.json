@@ -1,0 +1,7 @@
+{
+  "name": "Central Melon",
+  "description": "A premium e-commerce platform for high-quality melons featuring AI-powered quality checks and smart supply chain management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
