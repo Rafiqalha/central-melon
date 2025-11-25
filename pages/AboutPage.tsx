@@ -180,7 +180,7 @@ export const AboutPage: React.FC = () => {
                                     <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=100" alt="Founder" />
                                 </div>
                                 <div>
-                                    <p className="font-bold text-gray-900">Budi Santoso</p>
+                                    <p className="font-bold text-gray-900">Arifin</p>
                                     <p className="text-sm text-melon-600">Founder Central Melon</p>
                                 </div>
                             </div>
